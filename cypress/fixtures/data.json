@@ -1,0 +1,5 @@
+{
+  "url": "http://localhost:8080/api/v3/",
+  "email": "hello@cypress.io",
+  "body": "Fixtures are a great way to mock data for responses to routes"
+}
